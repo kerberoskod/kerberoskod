@@ -112,6 +112,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 12px;">
+      <h3>⚡ Cortex</h3>
+      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
+        Event-driven microservices e-commerce platform. Spring Cloud Gateway + JWT auth + 5 isolated services communicating through an event bus. Architecture Decision Records included.
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/cortex"><code>kerberoskod/cortex</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
       <h3>🗃️ Rook</h3>
       <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
         Go CLI tool to scan, check, and update project dependencies across npm, Maven, Go modules, and pip. Cobra + concurrent registry lookups.
@@ -120,6 +129,8 @@
         <a href="https://github.com/kerberoskod/rook"><code>kerberoskod/rook</code></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" style="padding: 12px;">
       <h3>🛡️ Sentry</h3>
       <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
