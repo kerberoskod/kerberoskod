@@ -1,109 +1,83 @@
 ```html
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
-  <h1 style="font-size: 2.5rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.2rem;">
-    kerberoskod
-    <span style="font-weight: 300; font-size: 1.5rem; color: #86868b;">· Full-Stack Developer</span>
-  </h1>
-
-  <div style="width: 60px; height: 3px; background: #d2d2d7; border-radius: 2px; margin: 1rem auto;"></div>
-
-  <p style="font-size: 1.1rem; color: #6e6e73; max-width: 480px; margin: 0 auto; line-height: 1.6;">
-    Building resilient, scale-aware systems from the database to the browser.<br>
-    Clean architecture. Clean code. Clean interfaces.
-  </p>
-
-  <br>
-
-  <a href="https://github.com/kerberoskod">
-    <img src="https://img.shields.io/github/followers/kerberoskod?style=social" alt="followers">
-  </a>
-  <a href="https://github.com/kerberoskod">
-    <img src="https://img.shields.io/github/stars/kerberoskod?style=social" alt="stars">
-  </a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Karayan;Full-Stack+Developer;Crafting+Resilient+Systems">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=28&duration=3000&pause=500&color=1D1D1F&center=true&vCenter=true&width=500&lines=Karayan;Full-Stack+Developer;Crafting+Resilient+Systems" alt="Typing SVG">
+  </picture>
 </div>
-```
+
+<p align="center">
+  <em style="color: #86868b;">
+    Building scale-aware systems from the database to the browser.<br>
+    Clean architecture · Clean code · Clean interfaces.
+  </em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/kerberoskod">
+    <img src="https://img.shields.io/github/followers/kerberoskod?style=flat&label=Followers&logo=github&color=1d1d1f&logoColor=1d1d1f" alt="Followers">
+  </a>
+  <a href="https://github.com/kerberoskod">
+    <img src="https://img.shields.io/github/stars/kerberoskod?style=flat&label=Stars&logo=github&color=1d1d1f&logoColor=1d1d1f" alt="Stars">
+  </a>
+  <a href="mailto:kuvvetikarayan@mail.ru">
+    <img src="https://img.shields.io/badge/Email-1d1d1f?style=flat&logo=maildotru&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-<h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">⚡ Tech Stack</h2>
+<h2 align="center">🔧 Tech Stack</h2>
 
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div align="center">
 
 ### Backend
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud">
+`Java` `Kotlin` `Go` `Python` `Node.js`  
+`Spring Boot` `Spring Cloud` `FastAPI` `Express`
 
 ### Frontend
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+`React` `Next.js` `TypeScript` `Tailwind CSS`  
+`HTML5` `CSS3` `JavaScript`
 
 ### DevOps & Cloud
+`Docker` `Kubernetes` `AWS` `Terraform`  
+`GitHub Actions` `Linux`
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+### Database & Messaging
+`PostgreSQL` `MySQL` `MongoDB` `Redis`  
+`RabbitMQ` `Apache Kafka`
 
-### Database
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-
-### Messaging & Streaming
-
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka">
-
-### Testing & Tools
-
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit5">
-<img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=&logoColor=white" alt="Mockito">
-<img src="https://img.shields.io/badge/Testcontainers-5C4EE5?style=for-the-badge&logo=&logoColor=white" alt="Testcontainers">
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+### Testing & Build
+`JUnit 5` `Mockito` `Testcontainers` `Playwright`  
+`Maven` `Gradle`
 
 </div>
 
 ---
 
-<h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">🔨 Featured Projects</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
+    <td width="50%" valign="top">
       <h3>📋 TaskForge</h3>
-      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
-        Project management platform with Kanban boards, real-time WebSocket updates, and role-based access. Built with Spring Boot 3.4 + React 19 + STOMP.
+      <p>
+        <em>Full-stack Kanban board with real-time collaboration.</em><br>
+        <sub>Spring Boot 3.4 · React 19 · WebSocket STOMP · PostgreSQL · Docker</sub>
       </p>
       <p>
         <a href="https://github.com/kerberoskod/taskforge"><code>kerberoskod/taskforge</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/29_tests-passing-228B22?style=flat" alt="Tests">
       </p>
     </td>
-    <td width="50%" valign="top" style="padding: 12px;">
+    <td width="50%" valign="top">
       <h3>👁️ Zephyr</h3>
-      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
-        AI-powered code review assistant. FastAPI + Anthropic Claude + GitHub webhooks + Redis/ARQ. Reviews PRs automatically.
+      <p>
+        <em>AI-powered PR review bot using Claude.</em><br>
+        <sub>FastAPI · Anthropic Claude · SQLAlchemy · GitHub Webhooks · React</sub>
       </p>
       <p>
         <a href="https://github.com/kerberoskod/zephyr"><code>kerberoskod/zephyr</code></a>
@@ -111,30 +85,47 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
+    <td width="50%" valign="top">
       <h3>⚡ Cortex</h3>
-      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
-        Event-driven microservices e-commerce platform. Spring Cloud Gateway + JWT auth + 5 isolated services communicating through an event bus. Architecture Decision Records included.
+      <p>
+        <em>Event-driven microservices e-commerce platform.</em><br>
+        <sub>Spring Cloud Gateway · 5 microservices · Event Bus · JWT · H2/PostgreSQL</sub>
       </p>
       <p>
         <a href="https://github.com/kerberoskod/cortex"><code>kerberoskod/cortex</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/6_tests-passing-228B22?style=flat" alt="Tests">
       </p>
     </td>
-    <td width="50%" valign="top" style="padding: 12px;">
+    <td width="50%" valign="top">
+      <h3>💳 PayBridge</h3>
+      <p>
+        <em>Payment processing platform with full state machine.</em><br>
+        <sub>Spring Boot · RabbitMQ · Bucket4j · JWT · PostgreSQL · Docker</sub>
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/paybridge"><code>kerberoskod/paybridge</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/13_tests-passing-228B22?style=flat" alt="Tests">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🗃️ Rook</h3>
-      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
-        Go CLI tool to scan, check, and update project dependencies across npm, Maven, Go modules, and pip. Cobra + concurrent registry lookups.
+      <p>
+        <em>Dependency migration CLI written in Go.</em><br>
+        <sub>Cobra · Concurrent registry lookups · npm/Maven/Go/pip/Cargo/Pubspec</sub>
       </p>
       <p>
         <a href="https://github.com/kerberoskod/rook"><code>kerberoskod/rook</code></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 12px;">
+    <td width="50%" valign="top">
       <h3>🛡️ Sentry</h3>
-      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
-        Go CLI security scanner. Detects hardcoded secrets, misconfigurations, Dockerfile issues, and missing security best practices.
+      <p>
+        <em>Security scanner for hardcoded secrets & misconfigurations.</em><br>
+        <sub>Cobra · Regex pattern matching · Dockerfile analysis · HTML report</sub>
       </p>
       <p>
         <a href="https://github.com/kerberoskod/sentry"><code>kerberoskod/sentry</code></a>
@@ -147,7 +138,7 @@
 
 ---
 
-<h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">📊 GitHub Analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <picture>
@@ -167,23 +158,28 @@
 
 ---
 
-<h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">📬 Connect</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="75%">
+  </picture>
+</div>
 
-<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+---
 
+<p align="center">
   <a href="mailto:kuvvetikarayan@mail.ru">
-    <img src="https://img.shields.io/badge/kuvvetikarayan@mail.ru-1d1d1f?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/kuvvetikarayan@mail.ru-1d1d1f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.com/users/kerberoskod">
     <img src="https://img.shields.io/badge/kerberoskod-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-
-</div>
-
-<br>
-
-<div align="center" style="width: 40px; height: 2px; background: #d2d2d7; border-radius: 1px; margin: 0 auto;"></div>
-
-<p align="center" style="font-size: 0.85rem; color: #86868b; letter-spacing: 0.02em;">
-  Crafted with precision ✦
+  <a href="https://github.com/kerberoskod">
+    <img src="https://img.shields.io/badge/@kerberoskod-1d1d1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
+
+<p align="center">
+  <sub style="color: #86868b;">Crafted with precision ✦</sub>
+</p>
+```
