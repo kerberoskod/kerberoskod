@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Karayan;Full-Stack+Developer;Crafting+Resilient+Systems">
@@ -182,4 +181,3 @@
 <p align="center">
   <sub style="color: #86868b;">Crafted with precision ✦</sub>
 </p>
-```
