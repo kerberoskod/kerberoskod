@@ -1,7 +1,7 @@
 ```html
 <div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
   <h1 style="font-size: 2.5rem; font-weight: 700; letter-spacing: -0.02em; margin-bottom: 0.2rem;">
-    Karayan
+    kerberoskod
     <span style="font-weight: 300; font-size: 1.5rem; color: #86868b;">· Full-Stack Developer</span>
   </h1>
 
