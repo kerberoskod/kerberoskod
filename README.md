@@ -85,6 +85,57 @@
 
 ---
 
+<h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">🔨 Featured Projects</h2>
+
+<div align="center" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>📋 TaskForge</h3>
+      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
+        Project management platform with Kanban boards, real-time WebSocket updates, and role-based access. Built with Spring Boot 3.4 + React 19 + STOMP.
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/taskforge"><code>kerberoskod/taskforge</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>👁️ Zephyr</h3>
+      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
+        AI-powered code review assistant. FastAPI + Anthropic Claude + GitHub webhooks + Redis/ARQ. Reviews PRs automatically.
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/zephyr"><code>kerberoskod/zephyr</code></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>🗃️ Rook</h3>
+      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
+        Go CLI tool to scan, check, and update project dependencies across npm, Maven, Go modules, and pip. Cobra + concurrent registry lookups.
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/rook"><code>kerberoskod/rook</code></a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="padding: 12px;">
+      <h3>🛡️ Sentry</h3>
+      <p style="color: #6e6e73; font-size: 0.9rem; line-height: 1.5;">
+        Go CLI security scanner. Detects hardcoded secrets, misconfigurations, Dockerfile issues, and missing security best practices.
+      </p>
+      <p>
+        <a href="https://github.com/kerberoskod/sentry"><code>kerberoskod/sentry</code></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 <h2 align="center" style="font-weight: 600; letter-spacing: -0.01em; font-size: 1.4rem;">📊 GitHub Analytics</h2>
 
 <div align="center">
