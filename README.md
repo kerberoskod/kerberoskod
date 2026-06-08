@@ -80,6 +80,8 @@
       </p>
       <p>
         <a href="https://github.com/kerberoskod/zephyr"><code>kerberoskod/zephyr</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/37_tests-passing-228B22?style=flat" alt="Tests">
       </p>
     </td>
   </tr>
@@ -118,6 +120,8 @@
       </p>
       <p>
         <a href="https://github.com/kerberoskod/rook"><code>kerberoskod/rook</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/6_tests-passing-228B22?style=flat" alt="Tests">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -128,6 +132,8 @@
       </p>
       <p>
         <a href="https://github.com/kerberoskod/sentry"><code>kerberoskod/sentry</code></a>
+        <br>
+        <img src="https://img.shields.io/badge/6_tests-passing-228B22?style=flat" alt="Tests">
       </p>
     </td>
   </tr>
